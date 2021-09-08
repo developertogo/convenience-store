@@ -1,6 +1,6 @@
 ## A Convenience Store based of Ruby
 
-This Ruby code simmulates an basic order transaction at a grocery store.
+This Ruby code simmulates a basic order transaction at a grocery store.
 
 # Initial Task
 
