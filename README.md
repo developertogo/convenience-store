@@ -12,8 +12,8 @@ The Product is described by the brand name, product name and the cost price. St.
 
 Install [Ruby](https://www.ruby-lang.org/en/documentation/installation/), and `bundler` if you don't have it already, as follows: `gem install bundle`. 
 ```
-git clone git://github.com/developertogo/yacs-checkout.git
-cd yacs-checkout
+git clone git://github.com/developertogo/convenience-store.git
+cd convenience-store
 bundle install
 ruby convenience_store.rb
 ```
