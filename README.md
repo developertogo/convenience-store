@@ -1,4 +1,4 @@
-## A Convenience Store based of Ruby
+## A Convenience Store based on Ruby
 
 This Ruby code simmulates a basic order transaction at a grocery store.
 
